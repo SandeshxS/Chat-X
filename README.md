@@ -10,9 +10,6 @@ responsive, clean UI. Integrated Socket.IO for real-time messaging and online/of
 **Backend:** Node.js, Express.js, Socket.IO  
 **Database:** MongoDB, Mongoose  
 **Authentication:** JWT, bcrypt.js  
-**Tools:** VS Code, GitHub, Postman
-**Deployment:** Render, MongoDB Atlas, Cloudinary
-
 Tools: VS Code, GitHub, Postman  
 Deployment & Services: Render, MongoDB Atlas, Cloudinary
 
