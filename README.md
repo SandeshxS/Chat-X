@@ -1,8 +1,14 @@
 # Chat X
 
-Full-stack real-time chat web application using React.js, Tailwind CSS, Node.js,
-Express, Socket.IO and MongoDB. Enabled users to send instant messages in one-on-one chats with a
-responsive, clean UI. Integrated Socket.IO for real-time messaging and online/offline presence.
+Built a full-stack real-time chat application using React, Node.js, Express, Socket.IO, and MongoDB.
+Implemented one-on-one instant messaging with real-time communication and online/offline user status tracking.
+Designed a responsive and modern user interface using Tailwind CSS for seamless user experience across devices.
+Integrated JWT-based authentication and secure password handling for user login and signup functionality.
+Used MongoDB Atlas and Mongoose for efficient database management and data storage.
+Deployed the application using Render with Cloudinary integration for media handling and storage.
+
+## 🌐 Live Website
+https://chat-x-cb9l.onrender.com
 
 ## 🚀 Tech Stack
 
